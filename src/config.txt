@@ -1,0 +1,15 @@
+ZONE A
+2
+1.0
+ZONE B
+2
+1.5
+ZONE C
+2
+2.0
+ZONE D
+2
+1.0
+ZONE E
+2
+0.5
